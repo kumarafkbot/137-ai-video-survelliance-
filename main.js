@@ -2,8 +2,7 @@ img="";
 status = "";
 objects=[];
 function setup() {
-    canvas=createCanvas(300,200)
-    canvas.center()
+    canvas=createCanvas(800,350)
 
 }
 
