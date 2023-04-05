@@ -13,7 +13,7 @@ function preload() {
 }
 
 function draw() {
-    image(video ,0,0,200,200)  
+    image(video ,0,0,800,350)  
     if(status != "")
 {
     objectDetector.detect(video , gotresults)
