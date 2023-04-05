@@ -5,7 +5,7 @@ function setup() {
 }
 
 function preload() {
-    video = createVideo("purple-cosmos-.gif")
+    video = createVideo("video.mp4")
     video.hide()
     
 }
